@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tilenbek06
-- 👀 I’m interested in  програмироваие . 
-- 🌱 I’m currently learning на музыкальном колледж
-- 💞️ Пока начинающий програмист
+- 👀 I’m interested in programe. 
+- 🌱 I’m currently learning in music kolej
 - 📫 How to reach me ...
 
 <!---
